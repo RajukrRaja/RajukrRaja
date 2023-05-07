@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Raju Kumar Raja</h1>
 <h3 align="center">Full Stack Developer || Software engineer</h3>
-https://github.com/user/banner.png
+https://github.com/RajukrRaja/RajukrRaja/blob/4017d9388c886fe4cf2c80b28c65c0c3a589067c/Raju%20kumar%20raja.png
+
+![HI VIEWERS](https://github.com/RajukrRaja/RajukrRaja/blob/4017d9388c886fe4cf2c80b28c65c0c3a589067c/Raju%20kumar%20raja.png)
 
 <img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt="Girl in a jacket" >
 
