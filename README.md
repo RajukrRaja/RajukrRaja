@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raju Kumar Raja</h1>
 <h3 align="center">Full Stack Developer || Software engineer</h3>
-https://github.com/RajukrRaja/RajukrRaja/blob/4017d9388c886fe4cf2c80b28c65c0c3a589067c/Raju%20kumar%20raja.png
+
 
 
 
