@@ -11,7 +11,9 @@ I'm Raju, a highly motivated Full Stack Developer with a strong foundation in **
 - 🔭 **Current Role:** Software Engineer Intern at **Outlier.ai**, working on AI-powered solutions with a focus on low-latency and high-resiliency applications.
 - 🌱 **Currently Learning:** Advancing my knowledge of **Kubernetes**, **AWS**, and exploring **container orchestration**.
 - 👯 **Looking to Collaborate On:** Open-source projects in **full-stack development**, AI, and distributed systems.
-- 🏆 **Fun Fact:** I’m an algorithm enthusiast and have solved over **500 problems** on platforms like **GeeksforGeeks** and **LeetCode**.
+- 💻 **LeetCode Contributions:** Solved over **250 DSA problems** on LeetCode.
+- 🌟 **Open Source Contribution:** Contributor for **GSSOC '24** (GirlScript Summer of Code).
+- 🏆 **Fun Fact:** I’m an algorithm enthusiast and enjoy solving complex problems!
 - 💬 **Ask Me About:** JavaScript, React, Node.js, AI, and algorithm challenges.
 - 📫 **Contact Me:** [rajukumar.191813@gmail.com](mailto:rajukumar.191813@gmail.com)
 
@@ -70,9 +72,10 @@ An AI-powered app that provides real-time medicine recommendations using React a
 ### 🏅 Achievements
 
 - **AIR 8** in GFG Contest 141, **AIR 10** in GFG Contest 150.
-- Solved **500+ problems** on **GeeksforGeeks**.
+- Solved over **250 DSA problems** on **LeetCode**.
 - **Rank 177** out of 100,000+ developers on **TechGig**.
 - **Top 5** student in my Diploma, repeatedly excelling in coursework.
+- Contributor for **GSSOC '24** (GirlScript Summer of Code).
 
 ---
 
