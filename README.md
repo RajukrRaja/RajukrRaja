@@ -80,7 +80,7 @@ Achieved **25% faster response times** with real-time updates.
 ### 📈 GitHub Analytics
 
 ![Raju Kumar Raja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RajukrRaja&show_icons=true&count_private=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RajukrRaja&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RajukrRaja&layout=compact&langs_count=8&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RajukrRaja&theme=radical)  
 ![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=RajukrRaja&theme=react-dark&area=true)  
 ![Trophies](https://github-profile-trophy.vercel.app/?username=RajukrRaja&theme=radical&no-bg=true&no-frame=true)
