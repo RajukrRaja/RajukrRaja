@@ -2,120 +2,100 @@
 
 ## 💻 Full Stack Developer | Software Engineer
 
-I'm Raju, a highly motivated Full Stack Developer with a strong foundation in **AI-driven solutions**, **real-time processing**, and **distributed systems**. Currently pursuing a **B.Tech in Computer Science Engineering**, I've gained hands-on experience through various internships and personal projects. I am passionate about creating efficient and scalable applications while continuously learning new technologies.
+**A passionate Full Stack Developer with a knack for building scalable and efficient solutions.** Currently pursuing a **B.Tech in Computer Science Engineering**, I have hands-on experience in **AI-driven solutions**, **real-time processing**, and **distributed systems**. My goal is to leverage my skills in developing innovative applications that solve real-world problems.
 
 ---
 
-### 🔥 About Me
+### 🔍 About Me
 
-- 🔭 **Current Role:** Software Engineer Intern at **Outlier.ai**, working on AI-powered solutions with a focus on **low-latency** and **high-resiliency** applications.
-- 🌱 **Currently Learning:** Advancing my knowledge of **Kubernetes**, **AWS**, and exploring **container orchestration**.
-- 👯 **Looking to Collaborate On:** Open-source projects in **full-stack development**, **AI**, and **distributed systems**.
-- 💻 **LeetCode Contributions:** Solved over **250 DSA problems**, consistently pushing my problem-solving abilities.
-- 🌟 **Open Source Contribution:** Active contributor in **GSSoC '24** *(GirlScript Summer of Code)*.
-- 🏆 **Fun Fact:** I’m an **algorithm enthusiast** who enjoys solving complex challenges!
-- 💬 **Ask Me About:** JavaScript, React, Node.js, AI, and algorithm challenges.
-- 📫 **Reach Out:** [rajukumar.191813@gmail.com](mailto:rajukumar.191813@gmail.com)
+- **🌟 Current Role:** Software Engineer Intern at **Outlier.ai**, specializing in **low-latency AI solutions**.
+- **🚀 Currently Exploring:** **Kubernetes**, **AWS**, and **container orchestration** for better scalability.
+- **🤝 Seeking Collaboration:** Open-source projects in **Full-Stack Development**, **AI**, and **cloud computing**.
+- **🏆 Competitive Programming:** Solved **250+ DSA challenges** on **LeetCode**, with a strong focus on algorithms.
+- **📈 Open Source Contributor:** Actively contributing to **GSSoC '24** *(GirlScript Summer of Code)*.
+- **💬 Reach Out:** [rajukumar.191813@gmail.com](mailto:rajukumar.191813@gmail.com)
 
 ---
 
 ### 🛠️ Technical Skills
 
-#### Programming Languages
 - **Languages:** Python, Java, JavaScript, PHP, C, C++
-
-#### Frontend Development
-- **Technologies:** React.js, Redux, Tailwind CSS, HTML5, CSS3
-
-#### Backend Development
-- **Technologies:** Node.js, Express.js, Socket.io
-
-#### Databases
-- **Technologies:** MongoDB, MySQL
-
-#### Tools & Platforms
-- **Tools:** Git, Docker, VS Code, Agile Development
-
-#### Concepts
-- **Concepts:** Distributed Systems, Real-Time Processing, Data Structures & Algorithms, OOP
+- **Frontend:** React.js, Redux, Tailwind CSS, HTML5, CSS3
+- **Backend:** Node.js, Express.js, Socket.io
+- **Databases:** MongoDB, MySQL
+- **DevOps:** Docker, Kubernetes, Git, Agile
+- **Core Concepts:** Distributed Systems, Real-Time Processing, OOP, Data Structures & Algorithms
 
 ---
 
 ### 🚀 Featured Projects
 
-#### **1. SWAPSHILD: Deep Fake Face Swap Detection**  
-A face swap detection application using React, Redux, and SCSS.  
-**Impact:** Improved processing speed by 30% through optimized image loading.  
-[View Repository](https://github.com/RajukrRaja/swapshild)
+#### **1. SWAPSHILD: Deep Fake Detection**  
+**Tech:** React, Redux, SCSS  
+Optimized face swap detection with **30% faster image processing**.  
+[Repository](https://github.com/RajukrRaja/swapshild)
 
-#### **2. SNAPNEST: Social Media Application**  
-Developed a real-time social media app with user authentication and notifications.  
-**Impact:** Increased user engagement by 40% with enhanced features.  
-[View Repository](https://github.com/RajukrRaja/snapnest)
+#### **2. SNAPNEST: Real-Time Social Media**  
+**Tech:** React, Node.js, MongoDB  
+Enhanced user engagement by **40%** through real-time features.  
+[Repository](https://github.com/RajukrRaja/snapnest)
 
-#### **3. TRIVDENTA: AI Medicine Recommendation**  
-An AI-powered app that provides real-time medicine recommendations using React and Node.js.  
-**Impact:** Improved response times by 25% with real-time updates.  
-[View Repository](https://github.com/RajukrRaja/trivdenta)
+#### **3. TRIVDENTA: AI Medicine Recommender**  
+**Tech:** React, Node.js, Socket.io  
+Achieved **25% faster response times** with real-time updates.  
+[Repository](https://github.com/RajukrRaja/trivdenta)
 
 ---
 
 ### 🏅 Achievements
 
-- **AIR 8** in GFG Contest 141, **AIR 10** in GFG Contest 150.
-- Solved over **250 DSA problems** on **LeetCode**.
-- **Rank 177** out of 100,000+ developers on **TechGig**.
-- **Top 5** student in my Diploma, repeatedly excelling in coursework.
-- Contributor for **GSSOC '24** *(GirlScript Summer of Code)*.
+- **AIR 8** in GFG Contest 141 | **AIR 10** in GFG Contest 150.
+- **250+ DSA problems** solved on **LeetCode**.
+- **Top 177** on **TechGig** out of 100,000+ developers.
+- **Top 5** in Diploma studies for consistent academic excellence.
+- **GSSoC '24 Contributor**: Contributing to impactful open-source projects.
 
 ---
 
 ### 💼 Experience
 
 #### **Software Engineer Intern at Outlier.ai**  
-*November 2023 – September 2024*  
-- Developed algorithmic challenges and improved user engagement by 15%.
-- Analyzed participant performance, optimizing challenges for a 20% improvement in completion rates.
-- Enhanced AI-driven solutions for low-latency performance in real-time environments.
+*Nov 2023 – Sep 2024*  
+- Developed and optimized **AI-driven solutions**, improving performance by **15%**.
+- Enhanced **real-time analytics** with low-latency techniques.
+- Improved challenge completion rates by **20%** through better algorithmic design.
 
 #### **Full Stack Intern at Null Class**  
-*May 2023 – October 2023*  
-- Mentored 100+ students in programming topics, boosting overall comprehension by 25%.
-- Developed and launched a social media application, increasing user engagement by 40%.
+*May 2023 – Oct 2023*  
+- Mentored **100+ students**, boosting programming comprehension by **25%**.
+- Launched a social media app, increasing user activity by **40%**.
 
 #### **Software Developer Intern at Inno Grove of Technology**  
-*December 2022 – May 2023*  
-- Addressed 200+ technical queries, enhancing learning materials by creating videos and guides.
-- Developed 3 innovative tools for the platform, increasing user satisfaction by 20%.
-
----
-
-### 🎓 Education
-
-**Bachelor of Technology in Computer Science Engineering**  
-Rungta College of Engineering, Bhilai | 2022 - 2025 | CGPA: 7.5
-
-**Diploma in Computer Science Engineering**  
-Satyam International Institute of Technology, Patna | 2019 - 2022 | CGPA: 9.05
+*Dec 2022 – May 2023*  
+- Addressed **200+ technical queries**, improving educational content.
+- Built **3 custom tools** that enhanced user satisfaction by **20%**.
 
 ---
 
 ### 📈 GitHub Analytics
 
-**GitHub Stats**  
-![Raju Kumar Raja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RajukrRaja&show_icons=true&include_all_commits=true&count_private=true&theme=radical)
+![Raju Kumar Raja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RajukrRaja&show_icons=true&count_private=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RajukrRaja&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RajukrRaja&theme=radical)  
+![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=RajukrRaja&theme=react-dark&area=true)  
+![Trophies](https://github-profile-trophy.vercel.app/?username=RajukrRaja&theme=radical&no-bg=true&no-frame=true)
 
-**Top Languages**  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RajukrRaja&layout=compact&langs_count=8&theme=radical)
+---
 
-**GitHub Streak**  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RajukrRaja&theme=radical)
+### 🎓 Education
 
-**Contribution Graph**  
-![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=RajukrRaja&theme=react-dark&area=true)
+**B.Tech in Computer Science Engineering**  
+*Rungta College of Engineering, Bhilai (2022 - 2025)*  
+*CGPA:* 7.5
 
-**Trophies**  
-![Trophies](https://github-profile-trophy.vercel.app/?username=RajukrRaja&margin-w=15&margin-h=15&theme=radical&no-bg=true&no-frame=true)
+**Diploma in Computer Science Engineering**  
+*Satyam International Institute of Technology, Patna (2019 - 2022)*  
+*CGPA:* 9.05
 
 ---
 
