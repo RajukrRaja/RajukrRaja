@@ -2,20 +2,20 @@
 
 ## 💻 Full Stack Developer | Software Engineer
 
-I'm Raju, a highly motivated Full Stack Developer with a strong foundation in **AI-driven solutions**, **real-time processing**, and **distributed systems**. Currently pursuing a **B.Tech in Computer Science Engineering**, I've gained hands-on experience through various internships and personal projects. I'm passionate about creating efficient and scalable applications while continuously learning new technologies.
+I'm Raju, a highly motivated Full Stack Developer with a strong foundation in **AI-driven solutions**, **real-time processing**, and **distributed systems**. Currently pursuing a **B.Tech in Computer Science Engineering**, I've gained hands-on experience through various internships and personal projects. I am passionate about creating efficient and scalable applications while continuously learning new technologies.
 
 ---
 
 ### 🔥 About Me
 
-- 🔭 **Current Role:** Software Engineer Intern at **Outlier.ai**, working on AI-powered solutions with a focus on low-latency and high-resiliency applications.
+- 🔭 **Current Role:** Software Engineer Intern at **Outlier.ai**, working on AI-powered solutions with a focus on **low-latency** and **high-resiliency** applications.
 - 🌱 **Currently Learning:** Advancing my knowledge of **Kubernetes**, **AWS**, and exploring **container orchestration**.
-- 👯 **Looking to Collaborate On:** Open-source projects in **full-stack development**, AI, and distributed systems.
-- 💻 **LeetCode Contributions:** Solved over **250 DSA problems** on LeetCode.
-- 🌟 **Open Source Contribution:** Contributor for **GSSOC '24** (GirlScript Summer of Code).
-- 🏆 **Fun Fact:** I’m an algorithm enthusiast and enjoy solving complex problems!
+- 👯 **Looking to Collaborate On:** Open-source projects in **full-stack development**, **AI**, and **distributed systems**.
+- 💻 **LeetCode Contributions:** Solved over **250 DSA problems**, consistently pushing my problem-solving abilities.
+- 🌟 **Open Source Contribution:** Active contributor in **GSSoC '24** *(GirlScript Summer of Code)*.
+- 🏆 **Fun Fact:** I’m an **algorithm enthusiast** who enjoys solving complex challenges!
 - 💬 **Ask Me About:** JavaScript, React, Node.js, AI, and algorithm challenges.
-- 📫 **Contact Me:** [rajukumar.191813@gmail.com](mailto:rajukumar.191813@gmail.com)
+- 📫 **Reach Out:** [rajukumar.191813@gmail.com](mailto:rajukumar.191813@gmail.com)
 
 ---
 
@@ -38,15 +38,6 @@ I'm Raju, a highly motivated Full Stack Developer with a strong foundation in **
 
 #### Concepts
 - **Concepts:** Distributed Systems, Real-Time Processing, Data Structures & Algorithms, OOP
-
----
-
-### 📈 GitHub Analytics
-
-![Raju Kumar Raja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RajukrRaja&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RajukrRaja&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RajukrRaja&theme=radical)  
-![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=RajukrRaja&theme=react-dark&area=true)
 
 ---
 
@@ -75,7 +66,7 @@ An AI-powered app that provides real-time medicine recommendations using React a
 - Solved over **250 DSA problems** on **LeetCode**.
 - **Rank 177** out of 100,000+ developers on **TechGig**.
 - **Top 5** student in my Diploma, repeatedly excelling in coursework.
-- Contributor for **GSSOC '24** (GirlScript Summer of Code).
+- Contributor for **GSSOC '24** *(GirlScript Summer of Code)*.
 
 ---
 
@@ -109,6 +100,25 @@ Satyam International Institute of Technology, Patna | 2019 - 2022 | CGPA: 9.05
 
 ---
 
+### 📈 GitHub Analytics
+
+**GitHub Stats**  
+![Raju Kumar Raja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RajukrRaja&show_icons=true&include_all_commits=true&count_private=true&theme=radical)
+
+**Top Languages**  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RajukrRaja&layout=compact&langs_count=8&theme=radical)
+
+**GitHub Streak**  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RajukrRaja&theme=radical)
+
+**Contribution Graph**  
+![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=RajukrRaja&theme=react-dark&area=true)
+
+**Trophies**  
+![Trophies](https://github-profile-trophy.vercel.app/?username=RajukrRaja&margin-w=15&margin-h=15&theme=radical&no-bg=true&no-frame=true)
+
+---
+
 ### 📫 Connect with Me
 
 - **Email:** [rajukumar.191813@gmail.com](mailto:rajukumar.191813@gmail.com)
@@ -119,3 +129,4 @@ Satyam International Institute of Technology, Patna | 2019 - 2022 | CGPA: 9.05
 ---
 
 > "Code is like humor. When you have to explain it, it’s bad." – *Cory House*
+
