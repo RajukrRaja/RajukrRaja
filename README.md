@@ -1,9 +1,13 @@
-# Raju Kumar Raja
+
 
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 # Hi there, I'm Raju Kumar Raja 👋
 
 I'm a **Full-Stack Developer** passionate about building efficient and scalable applications.
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RajukrRaja&label=Profile%20views&color=brightgreen&style=flat-square" alt="RajukrRaja" />  
+</p>
 
 ---
 
@@ -22,32 +26,38 @@ I'm a **Full-Stack Developer** passionate about building efficient and scalable 
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
-### Total Contributions
+### Contribution Overview
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RajukrRaja&show_icons=true&theme=radical" width="90%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RajukrRaja&show_icons=true&theme=radical" width="80%"/>
 </p>
 
-### Top Languages
+### Language Usage - Pie Chart
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajukrRaja&layout=compact&theme=radical" width="50%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RajukrRaja&theme=radical" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RajukrRaja&theme=radical" width="45%" />
 </p>
 
-### Commit Activity
+### Commit Activity - Weekly Breakdown (Bar Chart)
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RajukrRaja&theme=radical" width="90%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RajukrRaja&theme=radical" width="80%" />
 </p>
 
 ### Productivity Stats
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RajukrRaja&theme=radical" width="40%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RajukrRaja&theme=radical" width="40%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RajukrRaja&theme=radical" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RajukrRaja&theme=radical&utcOffset=8" width="45%" />
+</p>
+
+### Repository Summary - Language Distribution
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajukrRaja&layout=compact&theme=radical" width="60%" />
 </p>
 
 ### Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RajukrRaja&theme=radical&margin-w=15" width="90%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RajukrRaja&theme=radical&margin-w=15" width="100%" />
 </p>
 
 ---
@@ -81,8 +91,10 @@ I'm a **Full-Stack Developer** passionate about building efficient and scalable 
 ---
 
 <div align="center">
-  <h3>Show some ❤️ by starring my repositories!</h3>
+  <h3>Each of these profile structures can be adapted to emphasize your unique skills, experience, and projects, making your GitHub profile a powerful tool for showcasing your professional journey. Let me know if you'd like help with specific sections!</h3>
 </div>
+
+
 
 
 
