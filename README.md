@@ -1,118 +1,76 @@
-# 👋 Hi, I'm Raju Kumar Raja
+# Raju Kumar Raja
 
-## 💻 Full Stack Developer | Software Engineer
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
-**A passionate Full Stack Developer with a knack for building scalable and efficient solutions.** Currently pursuing a **B.Tech in Computer Science Engineering**, I have hands-on experience in **AI-driven solutions**, **real-time processing**, and **distributed systems**. My goal is to leverage my skills in developing innovative applications that solve real-world problems.
+<h1 align="center"><b>Hello there, I'm Raju Kumar Raja 👋</b></h1>
 
----
+<h4 align="center"><b>"Turning ideas into code"</b></h4>
 
-### 🔍 About Me
+<p align="center">
+  <img alt="visitors" src="https://gpvc.arturio.dev/RajukrRaja" />
+</p>
 
-- **🌟 Current Role:** Software Engineer Intern at **Outlier.ai**, specializing in **low-latency AI solutions**.
-- **🚀 Currently Exploring:** **Kubernetes**, **AWS**, and **container orchestration** for better scalability.
-- **🤝 Seeking Collaboration:** Open-source projects in **Full-Stack Development**, **AI**, and **cloud computing**.
-- **🏆 Competitive Programming:** Solved **250+ DSA challenges** on **LeetCode**, with a strong focus on algorithms.
-- **📈 Open Source Contributor:** Actively contributing to **GSSoC '24** *(GirlScript Summer of Code)* and **Social Winter of Code (SWOC)**.
-
----
-
-### 🛠️ Technical Skills
-
-- **Languages:** 
-  ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
-  ![Java Badge](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) 
-  ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
-  ![C++ Badge](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-
-- **Frontend:** 
-  ![React Badge](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) 
-  ![Redux Badge](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white) 
-  ![Tailwind CSS Badge](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-
-- **Backend:** 
-  ![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) 
-  ![Express.js Badge](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-
-- **Databases:** 
-  ![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) 
-  ![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-- **DevOps:** 
-  ![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) 
-  ![Kubernetes Badge](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) 
-  ![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+<p align="center">
+<a href="https://www.linkedin.com/in/raju-kumar-raja/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://github.com/RajukrRaja"><img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
+<a href="https://leetcode.com/u/raju_code79031/"><img src="https://img.shields.io/badge/leetcode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>&nbsp;
+<a href="mailto:rajukumar.191813@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="https://rajukrraja.github.io/portofolio-updated/"><img src="https://img.shields.io/badge/portfolio-%231877F2.svg?&style=for-the-badge&logo=wordpress&logoColor=white" alt="Portfolio"/></a>&nbsp;
+</p>
 
 ---
 
-### 🚀 Featured Projects
+### 💼 Experience
+- **Full Stack Intern** at Null Class _(May 2023 – Oct 2023)_
+  - Mentored students and resolved programming queries.
+  - Developed a social media application focused on user authentication and real-time notifications.
+- **Software Developer Intern** at Inno Grove of Technology _(Dec 2022 – May 2023)_
+  - Addressed technical queries on DSA and managed educational projects.
+  - Enhanced user engagement through instructional materials and tools.
 
-1. **SWAPSHILD:** A deep fake face swap detection application using React, Redux, and SCSS. Utilized the TMDB API for data fetching and incorporated libraries like React Player, Dayjs, and React Infinite Scroll to enhance video playback and optimize image loading.
+### 📚 Projects
+- **[CommQuest: Real Estate Web Application](https://rajukrraja.github.io/real-state-web-application/)**  
+  *Tech Stack:* React, Redux, SCSS  
+  Real estate platform with deepfake detection for profile images.
 
-2. **SNAPNEST:** A social media application developed as part of a hackathon, utilizing HTML, Tailwind CSS, React.js, Node.js, Express.js, and MongoDB. Served as Backend Developer and Team Leader, focusing on user login/signup functionality and appointment management between doctors and patients, along with a real-time notification system.
+- **[PrepMint: Kids Education Web Application](https://rajukrraja.github.io/kid-center-)**  
+  *Tech Stack:* HTML, Tailwind CSS, React, Node.js, Express, MongoDB  
+  Interactive platform for kids with content sharing and real-time notifications.
 
-3. **TRIVDENTA:** An AI medicine recommendation application built with React.js, Node.js, Express.js, Socket.io, and MongoDB. Implemented Socket.io for real-time updates through bidirectional communication between the server and clients.
-
----
-
-### 📊 Profile Views
-
-- **Total Profile Views:** 1,500+  
-- **Monthly Profile Views:** 300+  
-- **Popular Project Views:**  
-  - SWAPSHILD: 600+  
-  - SNAPNEST: 450+  
-  - TRIVDENTA: 400+  
-- **GitHub Profile Views:** 800+  
-- **LinkedIn Profile Views:** 500+  
-
----
-
-### ⚙️ Additional Features
-
-1. **User Authentication:** Secure login/signup system using JWT for user authentication.
-2. **Profile Management:** Users can update their personal information and profile picture.
-3. **Real-time Notifications:** Instant notifications for messages and appointments.
-4. **Search Functionality:** Efficient search feature for users to find other profiles or content.
-5. **Responsive Design:** Optimized for various devices including mobile and tablet.
-6. **Multi-language Support:** Application available in multiple languages for broader accessibility.
-7. **Image Uploads:** Users can upload images with a preview feature.
-8. **Dark/Light Mode:** Toggle between dark and light themes for user preference.
-9. **Password Recovery:** A simple password recovery mechanism through email verification.
-10. **Admin Dashboard:** A dedicated dashboard for admins to manage users and content.
-11. **User Roles:** Different user roles (Admin, User) with varied permissions.
-12. **Chat Functionality:** Real-time chat feature for user interaction.
-13. **Analytics Dashboard:** Users can view statistics about their profile and activities.
-14. **Feedback System:** Users can provide feedback and rate services.
-15. **Bookmarking:** Users can bookmark their favorite content for quick access.
-16. **Content Sharing:** Share content directly on social media platforms.
-17. **Event Calendar:** Users can view and manage upcoming events.
-18. **Mobile Notifications:** Push notifications for important updates.
-19. **Custom URL Slugs:** Users can create custom URLs for their profiles.
-20. **API Integrations:** Integration with third-party APIs for enhanced functionality.
-21. **Offline Mode:** Basic functionality available when offline.
-22. **Data Export:** Option for users to export their data in various formats.
-23. **Profile Privacy Settings:** Users can manage who can view their profiles.
-24. **Content Moderation:** Automated content moderation for user-generated content.
-25. **Activity Feed:** Real-time feed of user activities for social engagement.
-26. **Tags and Categories:** Users can categorize their posts with tags.
-27. **Follow/Unfollow System:** Users can follow other profiles for updates.
-28. **Tutorials and Guides:** Integrated help section with tutorials for new users.
-29. **Collaboration Features:** Tools for users to collaborate on projects.
-30. **API Documentation:** Comprehensive documentation for developers to utilize the API.
-
----
+- **SocialBuzz: Social Media Web Application**  
+  *Tech Stack:* React, Node.js, Express, Socket.io, MongoDB  
+  AI-driven social media app enabling real-time connections.
 
 ### 🏆 Achievements
+- Ranked top 177 out of 100,000 on TechGig.
+- Achieved five top distinctions in college diploma program.
+- 100 Days badge on LeetCode; completed over 250 DSA problems.
+- Active contributor to [Hacktoberfest](https://www.holopin.io/hacktoberfest2024/userbadge/cm2g5y3wy417620cjph85h0jpk).
 
-- Received the **Welfare Award** from Satyam International Institute of Technology on July 1, 2022, in recognition of being the college topper five times during my diploma program in Computer Science Engineering.
-- Contributed to **GSSoC '24** and was selected as a contributor for **Social Winter of Code (SWOC)** Season 5.
+### 🛠️ Skills
+- **Languages:** Java, JavaScript, C, C++, Python
+- **Frameworks & Technologies:** React, Node.js, Express, Socket.io, Tailwind CSS
+- **Databases:** MongoDB, MySQL
+- **Tools:** Git, Visual Studio Code, Postman, Agile Development
+
+### 🎓 Education
+- **B.Tech in Computer Science Engineering**  
+  Rungta College of Engineering, Bhilai, Chhattisgarh  
+  GPA: 7.5 _(Till 6th Semester)_
+
+- **Diploma in Computer Science Engineering**  
+  Satyam International Institute of Technology, Patna  
+  GPA: 9.05
+
+### 🎯 Goals & Interests
+- Contributing to open-source projects and engaging in tech collaborations.
+- Improving MERN stack skills and exploring AI-driven app development.
+
+### 🌐 Connect & Collaborate
+If you’re interested in collaboration or just want to chat, feel free to reach out through my [LinkedIn](https://www.linkedin.com/in/raju-kumar-raja/) or [email](mailto:rajukumar.191813@gmail.com).
 
 ---
 
-### 📫 Connect with Me
-
-- **LinkedIn:** [Your LinkedIn Profile](your-linkedin-url)
-- **GitHub:** [RajukrRaja](https://github.com/RajukrRaja)
-- **Email:** [rajukumar.191813@gmail.com](mailto:rajukumar.191813@gmail.com)
-
----
+<div align="center">
+<h3 align="center">Show some ❤️ by starring repositories!</h3>
+</div>
