@@ -1,9 +1,7 @@
-
-
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 # Hi there, I'm Raju Kumar Raja 👋
 
-I'm a **Full-Stack Developer** passionate about building efficient and scalable applications.
+I'm a **Full-Stack Developer** passionate about building efficient and scalable applications with a focus on **front-end UI/UX** and **back-end API development**. I love exploring the latest in tech and constantly expanding my skill set to stay current.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RajukrRaja&label=Profile%20views&color=brightgreen&style=flat-square" alt="RajukrRaja" />  
@@ -22,7 +20,73 @@ I'm a **Full-Stack Developer** passionate about building efficient and scalable 
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
+
+---
+
+## 🌟 Open Source Programs & Achievements
+
+<div align="center">
+  <table>
+    <tr align="center">
+      <td style="border-right: 1px solid #dddddd; padding: 15px;" valign="top" width="50%">
+        <a href="">
+          <img src="https://github.com/ananyag309/ananyag309/blob/main/gssoc.png" alt="GirlScript Summer of Code" width="120" />
+          <br>
+          <strong>GirlScript Summer of Code</strong>
+        </a>
+        <br>
+        <span style="font-size: 14px; color: #555555;">🏅 Ranked 624 out of 17,000+ participants</span>
+        <br>
+        <span style="font-size: 12px; color: #777777;">
+          Total Badges: 6 | Total Score: 510
+        </span>
+      </td>
+      <td style="padding: 15px;" valign="top" width="50%">
+        <table>
+          <tr align="center">
+            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
+              <img src="https://github.com/ananyag309/ananyag309/blob/main/Explorer%20Badge.png" alt="Explorer Badge" width="80" />
+              <br>
+              <strong>Explorer Badge</strong>
+            </td>
+            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
+              <img src="https://github.com/ananyag309/ananyag309/blob/main/Adventurer%20Badge.png" alt="Adventurer Badge" width="80" />
+              <br>
+              <strong>Adventurer Badge</strong>
+            </td>
+            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
+              <img src="https://github.com/ananyag309/ananyag309/blob/main/Champion%20Badge.png" alt="Champion Badge" width="80" />
+              <br>
+              <strong>Champion Badge</strong>
+            </td>
+            <td style="padding: 10px;" width="100">
+              <img src="https://github.com/ananyag309/ananyag309/blob/main/Trailblazer%20Badge.png" alt="Trailblazer Badge" width="80" />
+              <br>
+              <strong>Trailblazer Badge</strong>
+            </td>
+          </tr>
+          <tr align="center">
+            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
+              <img src="https://github.com/ananyag309/ananyag309/blob/main/Summit%20Seeker%20Badge.png" alt="Summit Seeker Badge" width="80" />
+              <br>
+              <strong>Summit Seeker Badge</strong>
+            </td>
+            <td style="padding: 10px;" width="100">
+              <img src="Postman%20-%20Postman%20API%20Fundamentals%20Student%20Expert%20-%202024-07-29%20(1).png" alt="Postman API Fundamentals Student Expert" width="80" />
+              <br>
+              <strong>API Student Expert</strong>
+              <br>
+              <span style="font-size: 12px; color: #777777;">Postman</span>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -33,13 +97,13 @@ I'm a **Full-Stack Developer** passionate about building efficient and scalable 
   <img src="https://github-readme-stats.vercel.app/api?username=RajukrRaja&show_icons=true&theme=radical" width="80%"/>
 </p>
 
-### Language Usage - Pie Chart
+### Language Usage
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RajukrRaja&theme=radical" width="45%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RajukrRaja&theme=radical" width="45%" />
 </p>
 
-### Commit Activity - Weekly Breakdown (Bar Chart)
+### Commit Activity
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RajukrRaja&theme=radical" width="80%" />
 </p>
@@ -50,26 +114,20 @@ I'm a **Full-Stack Developer** passionate about building efficient and scalable 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RajukrRaja&theme=radical&utcOffset=8" width="45%" />
 </p>
 
-### Repository Summary - Language Distribution
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajukrRaja&layout=compact&theme=radical" width="60%" />
-</p>
-
-### Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RajukrRaja&theme=radical&margin-w=15" width="100%" />
-</p>
-
 ---
 
 ## 📝 Projects
 
 ### [CommQuest: Real Estate Web Application](https://github.com/RajukrRaja/real-state-web-application)
+- A full-featured web application for real estate listings, allowing users to browse, search, and filter properties with a modern and responsive UI.
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=RajukrRaja&repo=real-state-web-application&theme=radical" />
 </p>
 
 ### [PrepMint: Kids Education Web Application](https://github.com/RajukrRaja/kid-center-)
+- An educational platform designed for children, featuring interactive learning modules and resources for personalized learning experiences.
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=RajukrRaja&repo=kid-center-&theme=radical" />
 </p>
@@ -79,23 +137,7 @@ I'm a **Full-Stack Developer** passionate about building efficient and scalable 
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/raju-kumar-raja/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/RajukrRaja"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:rajukumar.191813@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/raju-kumar-raja/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/RajukrRaja"><img src="https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:rajukumar.191813@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aCTPPm4OHfRLSH6/giphy.gif" width="300" />
-</p>
-
----
-
-<div align="center">
-  <h3>Each of these profile structures can be adapted to emphasize your unique skills, experience, and projects, making your GitHub profile a powerful tool for showcasing your professional journey. Let me know if you'd like help with specific sections!</h3>
-</div>
-
-
-
-
-
-
