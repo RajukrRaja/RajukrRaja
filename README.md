@@ -75,7 +75,7 @@ I'm a **Full-Stack Developer** passionate about building efficient and scalable 
               <strong>Summit Seeker Badge</strong>
             </td>
             <td style="padding: 10px;" width="100">
-              <img src="Postman%20-%20Postman%20API%20Fundamentals%20Student%20Expert%20-%202024-07-29%20(1).png" alt="Postman API Fundamentals Student Expert" width="80" />
+              <img src="https://github.com/RajukrRaja/RajukrRaja/blob/main/Share%20Badge%20(6).png" alt="Postman API Fundamentals Student Expert" width="80" />
               <br>
               <strong>API Student Expert</strong>
               <br>
