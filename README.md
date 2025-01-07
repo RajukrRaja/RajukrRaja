@@ -104,7 +104,10 @@ I'm a **Full-Stack Developer** passionate about building efficient and scalable 
 </p>
 
 ### Commit Activity
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=RajukrRaja&theme=radical)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RajukrRaja&theme=radical" alt="GitHub Streak Stats" width="80%" />
+</p>
+
 
 
 
