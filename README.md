@@ -103,8 +103,9 @@ I'm a **Full-Stack Developer** passionate about building efficient and scalable 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RajukrRaja&theme=radical" width="45%" />
 </p>
 
+### Commit Activity
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=RajukrRaja&theme=radical&area=true" alt="GitHub Contribution Graph" width="80%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RajukrRaja&theme=radical" alt="GitHub Streak Stats" width="80%" />
 </p>
 
 
