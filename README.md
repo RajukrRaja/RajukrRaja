@@ -98,14 +98,16 @@ I'm a **Full-Stack Developer** passionate about building efficient and scalable 
 </p>
 
 ### Language Usage
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RajukrRaja&theme=radical" width="45%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RajukrRaja&theme=radical" width="45%" />
 </p>
 
-### Commit Activity
+### GitHub Streak Stats
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RajukrRaja&theme=radical" alt="GitHub Streak Stats" width="80%" />
+  <img src="https://streak-stats.demolab.com/?user=RajukrRaja&theme=radical" alt="GitHub Streak Stats" width="80%" />
 </p>
 
 
@@ -113,6 +115,7 @@ I'm a **Full-Stack Developer** passionate about building efficient and scalable 
 
 
 ### Productivity Stats
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RajukrRaja&theme=radical" width="45%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RajukrRaja&theme=radical&utcOffset=8" width="45%" />
