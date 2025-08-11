@@ -1,7 +1,7 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
-# Hi there, I'm Raju Kumar Raja 👋
+ # Hi there, I'm Raju Kumar Raja 👋
 
-I'm a **Full-Stack Developer** passionate about building efficient and scalable applications with a focus on **front-end UI/UX** and **back-end API development**. I love exploring the latest in tech and constantly expanding my skill set to stay current.
+ I'm a Full-Stack Developer and Mentor at GSSoC’25, with extensive experience in PHP and Laravel. I specialize in building scalable and robust systems, focusing on back-end API development, database design, and delivering high-quality solutions. I enjoy exploring the latest technologies and continuously expanding my skill set to stay ahead in the tech landscape.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RajukrRaja&label=Profile%20views&color=brightgreen&style=flat-square" alt="RajukrRaja" />  
@@ -12,6 +12,8 @@ I'm a **Full-Stack Developer** passionate about building efficient and scalable 
 ## 🚀 Skills & Tech Stack
 
 <p align="center">
+   <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
@@ -23,6 +25,7 @@ I'm a **Full-Stack Developer** passionate about building efficient and scalable 
   <img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
+
 
 ---
 
@@ -74,12 +77,11 @@ I'm a **Full-Stack Developer** passionate about building efficient and scalable 
               <br>
               <strong>Summit Seeker Badge</strong>
             </td>
-            <td style="padding: 10px;" width="100">
-              <img src="https://github.com/RajukrRaja/RajukrRaja/blob/main/Share%20Badge%20(6).png" alt="Postman API Fundamentals Student Expert" width="80" />
+
+   <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
+              <img src="https://github.com/RajukrRaja/RajukrRaja/blob/main/Share%20Badge%20(6).png" alt="Postman  Badge" width="80" />
               <br>
-              <strong>API Student Expert</strong>
-              <br>
-              <span style="font-size: 12px; color: #777777;">Postman</span>
+              <strong>Postman  Badge</strong>
             </td>
           </tr>
         </table>
@@ -121,25 +123,7 @@ I'm a **Full-Stack Developer** passionate about building efficient and scalable 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RajukrRaja&theme=radical&utcOffset=8" width="45%" />
 </p>
 
----
 
-## 📝 Projects
-
-### [CommQuest: Real Estate Web Application](https://github.com/RajukrRaja/real-state-web-application)
-- A full-featured web application for real estate listings, allowing users to browse, search, and filter properties with a modern and responsive UI.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RajukrRaja&repo=real-state-web-application&theme=radical" />
-</p>
-
-### [PrepMint: Kids Education Web Application](https://github.com/RajukrRaja/kid-center-)
-- An educational platform designed for children, featuring interactive learning modules and resources for personalized learning experiences.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RajukrRaja&repo=kid-center-&theme=radical" />
-</p>
-
----
 
 ## 🌐 Connect with Me
 
