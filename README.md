@@ -1,5 +1,5 @@
 # 👨‍💻 Raju Kumar Raja  
-#####Senior Laravel Backend Architect | Full-Stack Engineer | AI/ML Integration Specialist####
+
 
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raju-kumar-raja/)
@@ -9,7 +9,7 @@
 
 ---
 
-## 📊 Professional Summary
+## 📊Senior Laravel Backend Architect | Full-Stack Engineer | AI/ML Integration Specialist
 
 > **2+ years** of enterprise-grade Laravel development | **50%+** average system performance gains  
 > **₹50L+** monthly transaction processing | **Available for contracts: $30–50/hour**
