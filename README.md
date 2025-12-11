@@ -4,7 +4,7 @@
 
 **Senior Laravel Developer | Backend Architect | Performance Optimizer**
 
-I'm a **Senior Laravel Developer with 2+ years of professional experience** building high-performance enterprise applications. Currently enhancing financial systems at **Trenity Consultant, Mohali (₹35k/month)** while pursuing freelance opportunities at **$30-50/hour**. I specialize in transforming complex business requirements into scalable, maintainable Laravel solutions that deliver measurable results.
+I'm a **Senior Laravel Developer with 2+ years of professional experience** building high-performance enterprise applications. Currently enhancing financial systems at **Trenity Consultant, Mohali while pursuing freelance opportunities at **$30-50/hour**. I specialize in transforming complex business requirements into scalable, maintainable Laravel solutions that deliver measurable results.
 
 🔭 **Currently:** Building financial SaaS platforms at Trenity Consultant | Available for $30-50/hour remote contracts  
 💼 **Previously:** Developed loan management systems at Megma IT | Built admin panels at Indiyana Infotech  
