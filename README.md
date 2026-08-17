@@ -1,4 +1,4 @@
-# 👨‍💻 Raju Kumar Raja  | #7903185457
+# 👨‍💻 Raju Kumar Raja 
 
 
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
