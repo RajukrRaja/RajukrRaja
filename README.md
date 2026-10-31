@@ -110,12 +110,6 @@ Delivered **10+ CRUD modules**, improved performance by **30%**, and strengthene
 - **Diploma · Computer Science & Engineering** — Satyam International Institute of Technology, Patna · 2019–2022 · CGPA 9.06/10
 - **Matriculation** — High School Sarathua, Bhojpur · 2018–2019 · 75/100
 
-## 🎓 Education
-
-- **B.Tech · Computer Science & Engineering** — 2022–2025
-- **Diploma · Computer Science & Engineering** — Satyam International Institute of Technology, Patna · 2019–2022 · CGPA 9.06/10
-- **Matriculation** — High School Sarathua, Bhojpur · 2018–2019 · 75/100
-
 ## 🏅 Achievements
 
 - **TechGig Rank 177** among 100,000+ participants, as listed in my resume
