@@ -82,15 +82,24 @@ Delivered **10+ CRUD modules**, improved performance by **30%**, and strengthene
 
 ---
 
-## 📊 GitHub Statistics
+## 🏆 Open-Source Contributions
+
+- **GirlScript Summer of Code (GSSoC):** Open-source contributor in 2024; mentor in 2025.
+- **Hacktoberfest:** Open-source contributor.
+
+## 📈 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RajukrRaja&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=C9F31D&icon_color=C9F31D&text_color=E6E6E6" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajukrRaja&layout=compact&hide_border=true&bg_color=00000000&title_color=C9F31D&text_color=E6E6E6" alt="Most used languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RajukrRaja&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" width="80%" alt="GitHub statistics"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=RajukrRaja&hide_border=true&background=00000000&ring=C9F31D&fire=C9F31D&currStreakLabel=C9F31D&sideLabels=E6E6E6&dates=8A8A8A" alt="GitHub contribution streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RajukrRaja&theme=radical&exclude=html,css" width="45%" alt="Languages by repositories"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RajukrRaja&theme=radical&exclude=html,css" width="45%" alt="Languages by commits"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=RajukrRaja&theme=radical&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="80%" alt="GitHub contribution streak"/>
 </p>
 
 ---
@@ -101,10 +110,14 @@ Delivered **10+ CRUD modules**, improved performance by **30%**, and strengthene
 - **Diploma · Computer Science & Engineering** — Satyam International Institute of Technology, Patna · 2019–2022 · CGPA 9.06/10
 - **Matriculation** — High School Sarathua, Bhojpur · 2018–2019 · 75/100
 
-## 🏆 Achievements
+## 🎓 Education
 
-- **GSSoC 2025 Mentor**, after contributing to GSSoC 2024
-- **Hacktoberfest** contributor
+- **B.Tech · Computer Science & Engineering** — 2022–2025
+- **Diploma · Computer Science & Engineering** — Satyam International Institute of Technology, Patna · 2019–2022 · CGPA 9.06/10
+- **Matriculation** — High School Sarathua, Bhojpur · 2018–2019 · 75/100
+
+## 🏅 Achievements
+
 - **TechGig Rank 177** among 100,000+ participants, as listed in my resume
 
 ## 🤝 Services
