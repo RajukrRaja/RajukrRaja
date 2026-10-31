@@ -4,6 +4,8 @@
 
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
+[![Animated role text](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=C9F31D&center=true&vCenter=true&width=850&lines=Laravel+%26+Backend+Engineering;REST+APIs%2C+CRM+%26+LMS+Workflows;AI+Voice+Learning+%26+Payment+Integrations)](https://git.io/typing-svg)
+
 <p align="center">
   <a href="https://growithraju.info/"><img src="https://img.shields.io/badge/Portfolio-Visit-C9F31D?style=for-the-badge&logo=googlechrome&logoColor=111111" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/raju-kumar-raja/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -15,6 +17,8 @@
 <p align="center"><strong>Full Stack Developer · Backend Engineer · India</strong><br/>Building products from database to delivery.</p>
 
 Full stack developer with **3.8+ years of experience** building web applications and backend systems with Laravel, PHP, REST APIs, CRM and LMS workflows.
+
+![WHAT I BUILD](https://capsule-render.vercel.app/api?type=rect&height=76&color=0:0F172A,50:0EA5E9,100:22C55E&text=WHAT%20I%20BUILD&fontColor=FFFFFF&fontSize=24&animation=fadeIn)
 
 ## 🧭 What I Do
 
@@ -37,6 +41,8 @@ Full stack developer with **3.8+ years of experience** building web applications
 ![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white)
 
 ---
+
+![EXPERIENCE](https://capsule-render.vercel.app/api?type=rect&height=76&color=0:064E3B,50:14B8A6,100:C9F31D&text=EXPERIENCE&fontColor=FFFFFF&fontSize=24&animation=scaleIn)
 
 ## 💼 Experience
 
@@ -66,6 +72,8 @@ Improved operational reporting efficiency by **50%**, reduced REST API response 
 Delivered **10+ CRUD modules**, improved performance by **30%**, and strengthened validation and error handling.
 
 ---
+
+![PROJECT SHOWCASE](https://capsule-render.vercel.app/api?type=rect&height=76&color=0:4C1D95,50:7C3AED,100:EC4899&text=PROJECT%20SHOWCASE&fontColor=FFFFFF&fontSize=24&animation=twinkling)
 
 ## Selected Projects
 
@@ -117,6 +125,8 @@ A CSS-focused public project exploring visual layout and styling.
 - **Stack:** CSS
 - [Browse the repository](https://github.com/RajukrRaja/DreamPlace-)
 
+![ENGINEERING IMPACT](https://capsule-render.vercel.app/api?type=rect&height=76&color=0:0F172A,50:2563EB,100:06B6D4&text=ENGINEERING%20IMPACT&fontColor=FFFFFF&fontSize=24&animation=fadeIn)
+
 ## Selected Engineering Impact
 
 | Area | Reported outcome |
@@ -130,10 +140,14 @@ A CSS-focused public project exploring visual layout and styling.
 
 *Figures reflect the portfolio/resume. Platform-wide user counts are not attributed as individual ownership.*
 
+![OPEN SOURCE](https://capsule-render.vercel.app/api?type=rect&height=76&color=0:7C2D12,50:F97316,100:EC4899&text=OPEN%20SOURCE&fontColor=FFFFFF&fontSize=24&animation=scaleIn)
+
 ## 🏆 Open-Source Contributions
 
 - **GirlScript Summer of Code (GSSoC):** Open-source contributor in 2024; mentor in 2025.
 - **Hacktoberfest:** Open-source contributor.
+
+![GITHUB ACTIVITY](https://capsule-render.vercel.app/api?type=rect&height=76&color=0:111827,50:4338CA,100:C9F31D&text=GITHUB%20ACTIVITY&fontColor=FFFFFF&fontSize=24&animation=twinkling)
 
 ## GitHub Analytics
 
@@ -150,6 +164,8 @@ A CSS-focused public project exploring visual layout and styling.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RajukrRaja&bg_color=0D1117&color=E6EDF3&line=C9F31D&point=58A6FF&area=true&hide_border=true" width="98%" alt="GitHub contribution activity graph"/>
 </p>
 
+![EDUCATION %26 ACHIEVEMENTS](https://capsule-render.vercel.app/api?type=rect&height=76&color=0:164E63,50:0EA5E9,100:8B5CF6&text=EDUCATION%20%26%20ACHIEVEMENTS&fontColor=FFFFFF&fontSize=24&animation=fadeIn)
+
 ## 🎓 Education
 
 - **B.Tech · Computer Science & Engineering** — 2022–2025
@@ -159,6 +175,8 @@ A CSS-focused public project exploring visual layout and styling.
 ## 🏅 Achievements
 
 - **TechGig Rank 177** among 100,000+ participants, as listed in my resume
+
+![LET%E2%80%99S BUILD SOMETHING](https://capsule-render.vercel.app/api?type=rect&height=76&color=0:0F172A,50:DB2777,100:F97316&text=LET%E2%80%99S%20BUILD%20SOMETHING&fontColor=FFFFFF&fontSize=24&animation=scaleIn)
 
 ## 🤝 Services
 
